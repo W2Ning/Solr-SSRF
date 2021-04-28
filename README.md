@@ -6,4 +6,4 @@ CVE-2021-27905
 * POC为Xray的检测插件
 
 
-![image](https://github.com/W2Ning/Solr-SSRF/blob/main/poc.png)
+![image](https://github.com/W2Ning/Solr-SSRF/blob/main/poc.jpg)
